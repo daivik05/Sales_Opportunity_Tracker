@@ -15,7 +15,7 @@
 
 ## 📸 Preview
 
-![Dashboard Screenshot](Screenshots/dashboard.png)
+![Dashboard Screenshot](Screenshots/Screenshot 2025-08-05 180836.png)
 
 ## 🔧 Built With
 
